@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Prompts",
+  "description": "Una aplicación que genera prompts detallados para ChatGPT basados en la solicitud de un usuario, optimizados para obtener respuestas de alta calidad y contextualizadas.",
+  "requestFramePermissions": []
+}
